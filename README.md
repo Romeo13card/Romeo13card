@@ -76,11 +76,6 @@
   </a>
 </div>
 
----
-
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Romeo13card&icon=0&color=0" />
-</div>
 
 <!---
 Romeo13card/Romeo13card is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
